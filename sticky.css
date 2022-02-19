@@ -1,0 +1,26 @@
+.mainn {
+  background-color: darkblue;
+  height: 1000px;
+  width: 800px;
+}
+.sticky {
+  background-color: wheat;
+  height: 200px;
+  width: 200px;
+  position: sticky;
+  top: 100px;
+  left: 500px;
+}
+
+.fixed {
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  position: fixed;
+}
+
+.main2{
+    background-color: yellowgreen;
+    height: 1000px;
+    width: 800px;
+}

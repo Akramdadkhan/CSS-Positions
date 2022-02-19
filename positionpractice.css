@@ -1,0 +1,51 @@
+/* .main {
+  height: 1000px;
+  width: 800px;
+  background-color: burlywood;
+  position: relative;
+}
+
+.static {
+  height: 250px;
+  width: 200px;
+  background-color: crimson;
+  z-index: 1;
+}
+
+.relative {
+  height: 250px;
+  width: 200px;
+  background-color: rgb(9, 87, 87);
+  position: relative;
+  bottom: 800px;
+  /* top: 100px;
+  bottom: 100px;
+  right: 100px;
+  left: 100px; */
+  /* z-index: 10; */
+}
+
+/* .absolute {
+  height: 250px;
+  width: 200px;
+  background-color: rgb(40, 81, 158); */
+  /* position: relative; */
+  /* top: 100px;
+  bottom: 100px;
+  right: 100px;
+  left: 100px; */
+  /* position: absolute;
+} */ 
+
+.mainn{
+    background-color: crimson;
+width: 800px;
+height: 1500px;
+}
+.sticky{
+    background-color: cyan;
+    height: 200px;
+    width: 200px;
+    position: sticky;
+    top: 100px;
+}
